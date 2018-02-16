@@ -1,0 +1,198 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+
+
+/*Code From Original App*/
+.ui-page { 
+	background:#223c89;
+	}
+.ui-header .ui-title {
+    margin-right: 10%;
+    margin-left: 10%;
+	}
+    
+.ui-icon-service {
+    background-image: url('../res/linkIcons/service.png');
+    background-color: rgba(255,255,255);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+
+.ui-icon-head {
+    background-image: url('../res/linkIcons/head.jpg');
+    background-color: rgba(255,255,255);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+	
+.ui-icon-feed {
+    background-image: url('../res/linkIcons/RSSGuy-small2.jpg');
+    background-color: rgba(255,255,255);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+
+.ui-icon-newglassdot {
+    background-image: url('../res/linkIcons/newglassdot.png');
+    background-color: rgba(255,255,255);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+
+.ui-icon-tracks {
+    background-image: url('../res/linkIcons/tracks.jpg');
+    background-color: rgba(255,255,255);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+	
+.ui-icon-report{
+    background-image: url('../res/linkIcons/newsboy.png');
+    background-color: rgba(255,255,255);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+
+.ui-icon-reportgreen{
+    background-image: url('../res/linkIcons/newsboygreen.png');
+    background-color: rgba(255,255,255);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+}
+
+.ui-icon-reportbadge{
+    background-image: url('../res/linkIcons/newsboybadge.png');
+    background-color: rgba(255,255,255);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+}
+
+.ui-icon-pubs{
+    background-image: url('../res/linkIcons/book.png');
+    background-color: rgba(255,255,255, 0.3);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+
+.ui-icon-sglass {
+    background-image: url('../res/linkIcons/search.png');
+    background-color: rgba(255,255,255, 0.3);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+
+.ui-icon-newglass {
+    background-image: url('../res/linkIcons/newglass.png');
+    background-color: rgba(255,255,255, 0.3);
+    width:24px;
+    height: 24px;
+    margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
+    }
+
+label.ui-input-text  {
+    color: white;
+}
+
+a {
+    color: black !important;
+}
+
+h4 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.socialButtons {
+
+}
+
+.contactUs {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    position: fixed;
+    bottom: 0;
+    width: 97% !important;
+}
+
+.calltoaction1 {
+    width: 60% !important;
+    text-align: left !important;
+    float: left;
+    height: 53px;
+    color: black;
+    text-shadow: none;
+}
+
+.calllabel1 {
+    width: 30% !important;
+    text-align: left !important;
+    float: left;
+    height: 53px;
+    color: black;
+    text-shadow: none;
+}
+
+.calltoaction2 {
+    width: 60% !important;
+    text-align: left !important;
+    float: left;
+    height: 63px;
+    color: black;
+    text-shadow: none;
+}
+
+.calllabel2,
+.calllabel2 a {
+    width: 30% !important;
+    text-align: left !important;
+    float: left;
+    height: 63px;
+    color: black;
+    text-shadow: none;
+}
+
+.calltoaction2 .ui-link {
+    text-decoration: none;
+}
+
+.extramargin {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+
+.nomargin {
+    margin-top: 0px !important;
+}
+
+.header {
+    padding-top: 15px;
+}

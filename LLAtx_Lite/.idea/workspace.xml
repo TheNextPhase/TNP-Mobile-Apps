@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34692230-f5cc-4d5a-951f-57a36b740620" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../.~lock.Apps - OVERVIEW.docx#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/LLAtx Lite.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/HELP-US-OUT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/fontAwesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(1).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(10).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(11).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(12).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(13).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(14).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(15).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(16).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(17).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(18).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(19).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(2).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(20).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(21).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(3).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(4).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(5).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(6).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(7).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(8).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite(9).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx Lite.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/older versions/LLAtx.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/appstore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/googleplay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/iconoriginal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/android/hdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/android/ldpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/android/mdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/android/xhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/android/xxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/android/xxxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-40-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-50-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-60-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-60-3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-72-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-76-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/icon-small-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/ios/icon-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/windows/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/windows/smalllogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/windows/storelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/wp8/ApplicationIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/icons/wp8/Background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/android/screen-hdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/android/screen-ldpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/android/screen-mdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/android/screen-xhdpi-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/ios/screen-ipad-portrait-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/ios/screen-ipad-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/ios/screen-iphone-portrait-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/ios/screen-iphone-portrait-568h-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/ios/screen-iphone-portrait-667h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/ios/screen-iphone-portrait-736h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/ios/screen-iphone-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/windows/splashscreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/res/screens/wp8/SplashScreenImage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/LLA Tx Lite Icons/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/android/hdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/android/ldpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/android/mdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/android/xhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/android/xxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/android/xxxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-40-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-50-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-60-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-60-3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-76-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-Small-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon-Small-50@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/iTunesArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/iTunesArtwork@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/icon-small-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/icon-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/rsz-1itunesartwork2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/ios/rsz-itunesartwork2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/windows-phone/icon-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/newglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/newglassdot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/newsboybadge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/newsboygreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/LLAtx Lite/res/linkIcons/tracks.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/New MIB.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB (1).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB(2).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB(3).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB(4).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB(5).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB(6).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB(7).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB(8).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/older versions/New MIB.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/android/hdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/android/mdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/android/xhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/android/xxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/android/xxxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/ios/icon-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/ios/icon-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/ios/icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/ios/icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/ios/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/ios/icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/windows-phone/icon-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/newglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/newglassdot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/newsboybadge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/newsboygreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/res/linkIcons/tracks.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/New MIBA/server locations.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/Older versions/zoll - 1 Breaking news link.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/Older versions/zoll 2 - Change name to zNews.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/Older versions/zoll.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/Older versions/zoll4.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/Older versions/zoll5.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/Older versions/zoll6.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/Older versions/zoll7.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/QR New ZOLL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/ZOLL Android Push API info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/ZOLL App Imags/ZOLL APP Install.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/android/hdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/android/iTunesArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/android/mdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/android/xhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/android/xxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/android/xxxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/Icon-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/Icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/Icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/Icon-Small-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/Icon-Small-50@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/Icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/iTunesArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/ios/iTunesArtwork@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/windows-phone/icon-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/newglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/newglassdot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/newsboybadge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/newsboygreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/res/linkIcons/tracks.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../With Push/zoll/zoll.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/HCA.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/older versions/HCA-1.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/older versions/HCA.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/android/hdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/android/ldpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/android/mdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/android/xhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/Icon-40@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/Icon-Small-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/Icon-Small-50@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/Icon-Small@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/iTunesArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/iTunesArtwork@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-40@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-50@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-60@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-60@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-76@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon-small@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/ios/icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/windows-phone/icon-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/linkIcons/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/linkIcons/head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/linkIcons/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/linkIcons/newsboybadge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/linkIcons/newsboygreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/linkIcons/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/HealthCare-Alerts/res/linkIcons/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/MedIntelliBase.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/older versions/MIB Info.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/older versions/Medintellibase.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/android/hdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/android/mdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/android/xhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/android/xxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/android/xxxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/ios/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/windows-phone/icon-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/newglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/newsboybadge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/newsboygreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/MedIntelliBase Informational/res/linkIcons/tracks.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/MarketTracks/MIB MarketTracks-app--02-11-2014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/MarketTracks/MarketTracks.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/MarketTracks/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/MarketTracks/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/MarketTracks/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/MarketTracks/mt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/Mobile Application Development LOGIN Documentattion --11-14-2013.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/Push-Notification - services---2014-02-14--jpzEdits--oek.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/Push-Notification - services---2014-11-11-slp.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/UPDATED Mobile App Development Plan &amp; Priority List --Draft #3 -- 15-14-2013.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/MIB Alerts-Covidien--02-011-2014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien/.htpasswd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien/mt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/Covidien Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/MIB-Logo-Covidien--02-11-2014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/covidien_new.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/mt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/covidien_new/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/mt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/covidien/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/30-toolbar-icons.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/COVIDIEN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/COVIDIEN2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/MIB-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/MIBA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/MIBalerts-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/MIBalerts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/MTs--icon--touch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/actelion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/apple-touch-icon (2) - Copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/apple-touch-icon-zoll.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/banner-covidien.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/banner-covidien.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/banner-covidien.xcf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/banner-covidien1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/banner-covidien2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/logo33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/newsboy_sm2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/resuscitationalertsbanner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/web-app-icons-f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/web_app_icons.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/zoll-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/images/zoll.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/Med-IntelliBase-app--02-07-2014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mib-com.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mibbb/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mibbb/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mibbb/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mibbb/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mibbb/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mibbb/newsboy_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mibbb/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/mibbb/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/newsboy_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mib-com/service.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/MIB Alerts-app--02-07-2014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/MTs--icon--small--2012-09-05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/RSSGuy-small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/mibIntel.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/newsboy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/mibIntel-MIB Alerts/newsboy_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/review_QR_codes/Actelion-eLitAlerts-PH-2test-App--QR_code--02-19-2014.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/review_QR_codes/MIB Alerts-Covidien-MIB_logo-QR_code-02-011-2014.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/review_QR_codes/MIB Alerts-Covidien-covidien_logo---QR_code--FD-02-11-2014.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/review_QR_codes/MIB_Alerts-app--QR_code-fr--02-07-2014.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/review_QR_codes/MIB_MarketTracks-App--QR_code--fr_rvw2--11-02-2014.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/review_QR_codes/Med-IntelliBase-App--Promotional--QR_code--FD--2014-02-21.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/review_QR_codes/ZOLL_Alerts-app---QR_code--02-11-2014.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/ZOLL Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/ZOLL_Alerts-app--02-11-2014.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old Assets/zoll/zoll.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/MIBA.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/older versions/MIBA 1.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/older versions/MIBA 2.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/older versions/MIBA 4.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/older versions/MIBA 5.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/older versions/MIBA.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/android/hdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/android/iTunesArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/android/mdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/android/xhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/android/xxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/android/xxxhdpi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/Icon-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/Icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/Icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/Icon-Small-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/Icon-Small-50@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/Icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/iTunesArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/ios/iTunesArtwork@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/windows-phone/icon-173-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/windows-phone/icon-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/icon/windows-phone/icon-62-tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/RSSGuy-small2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/newglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/newglassdot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/newsboy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/newsboybadge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/newsboygreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Without Push/Old MIBA/res/linkIcons/tracks.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../Apps - OVERVIEW.docx" afterPath="$PROJECT_DIR$/../../../Apps - OVERVIEW.docx" />
+    </list>
+    <ignored path="LLAtx_Lite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="LLAtx_Lite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34383956">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="41" />
+    <option name="y" value="24" />
+    <option name="width" value="1559" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LLAtx_Lite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LLAtx_Lite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LLAtx_Lite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LLAtx_Lite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LLAtx_Lite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34692230-f5cc-4d5a-951f-57a36b740620" name="Default" comment="" />
+      <created>1464111728604</created>
+      <option name="number" value="Default" />
+      <updated>1464111728604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="24" width="1559" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39893618" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22395833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34383956">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
