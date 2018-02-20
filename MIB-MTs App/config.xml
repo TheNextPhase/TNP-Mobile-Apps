@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
 	id="com.thenextphase.mibmarkettracks" 
-	version="1.0.0" 
+	version="1.5.0" 
 	xmlns="http://www.w3.org/ns/widgets" 
 	xmlns:gap="http://cordova.apache.org/ns/1.0">
 	
-    <name>MedIntelliBase MarketTracks</name>
+    <name>MIB MarketTracks</name>
 	
     <description>
         MedIntelliBase MarketTracks Access Application
@@ -21,7 +21,7 @@
     <platform name="android">
         <!-- Define app splash screen for each platform. -->
         <splash density="mdpi" platform="android" src="res/icon/android/mdpi.png" />
-        <splash density="ldpi" platform="android" src="res/icon/android/ldpi.png" />
+        <splash density="hdpi" platform="android" src="res/icon/android/hdpi.png" />
         <splash density="xhdpi" platform="android" src="res/icon/android/xhdpi.png" />
     </platform>
 	
