@@ -25,10 +25,10 @@ var counterNumber;
 var openPage = {
     currentAlert: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://medintellibasealerts.com/mibaapp/currentalert', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/home/currentalert', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('https://medintellibasealerts.com/mibaapp/currentalert', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/home/currentalert', '_blank', 'location=no,enableViewportScale=yes');
         }
     },  
 	unreadAlerts: function () {
@@ -41,10 +41,10 @@ var openPage = {
     },
 	breakingNews: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://www.medintellibasealerts.com/mibaapp/breakingnews', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/home/breakingnews', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('https://www.medintellibasealerts.com/mibaapp/breakingnews', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/home/breakingnews', '_blank', 'location=no,enableViewportScale=yes');
         }
         
     },
