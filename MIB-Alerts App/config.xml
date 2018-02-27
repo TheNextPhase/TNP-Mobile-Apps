@@ -44,10 +44,7 @@
 
 	<icon src="icon.png" />
     <platform name="android">
-        <splash qualifier="ldpi" src="res/screen/android/screen-ldpi-portrait.png" />
-        <splash qualifier="mdpi" src="res/screen/android/screen-mdpi-portrait.png" />
-        <splash qualifier="hdpi" src="res/screen/android/screen-hdpi-portrait.png" />
-        <splash qualifier="xhdpi" src="res/screen/android/screen-xhdpi-portrait.png" />
+        <splash src="res/screen/android/drawable/splash.9.png" />
     </platform>
 	
 	<content src="index.html" />
