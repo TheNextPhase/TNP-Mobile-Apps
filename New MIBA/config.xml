@@ -4,7 +4,7 @@
 <widget xmlns     = "https://www.w3.org/ns/widgets"
         xmlns:gap ="http://phonegap.com/ns/1.0"
         id        = "com.thenextphase.miba"
-        version   = "2.3.1">
+        version   = "2.5.0">
 
     <name>MedIntelliBase Intel</name>
 
@@ -48,23 +48,7 @@
     <icon src="icon.png" />
 
     <!-- Define app icon for each platform.-->
-    <!-- Plugins -->
-
-    <!-- Core plugins -->
-    <plugin name="cordova-plugin-console" />
-    <plugin name="cordova-plugin-device" version="1.1.6"/>
-    <plugin name="cordova-plugin-dialogs" />
-    <plugin name="cordova-plugin-inappbrowser" />
-    <plugin name="cordova-plugin-network-information" />
-    <plugin name="cordova-plugin-splashscreen" />
-    <plugin name="cordova-plugin-file-transfer" />
-    <plugin name="cordova-plugin-file" />
-    <plugin name="cordova-plugin-whitelist" />
-
-    <!-- Third party plugins -->
-    <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
-    <plugin name="cordova-push-notifications" />
-    <plugin name="cordova-plugin-statusbar" />
+  
 
 <!-- Android -->
     <platform name="android">
@@ -116,6 +100,23 @@
         <icon src="res/icon/ios/icon-50@2x.png" gap:platform="ios" width="100" height="100" />
     </platform>
     
+	<!-- Plugins -->
+    <!-- Core plugins -->
+    <plugin name="cordova-plugin-console" />
+    <plugin name="cordova-plugin-device" version="1.1.6"/>
+    <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <plugin name="cordova-plugin-file-transfer" />
+    <plugin name="cordova-plugin-file" />
+    <plugin name="cordova-plugin-whitelist" />
+
+    <!-- Third party plugins -->
+    <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
+    <plugin name="cordova-push-notifications" />
+    <plugin name="cordova-plugin-statusbar" />
+	
     <!--
         Define access to external domains.
 

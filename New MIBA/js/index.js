@@ -225,7 +225,7 @@ var app = {
         var iosToken = msg;
         //console.log("Token Handler, This is the token: " + msg);
         app.verifyRegistration(msg);
-            },
+    },
     errorHandler:function(error) {
         //console.log(error);
     },
