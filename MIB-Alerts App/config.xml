@@ -16,7 +16,10 @@
     </author>
 
     <icon src="icon.png" />
-	
+	  <platform name="android">
+        <splash src="res/screen/android/drawable/splash.9.png" />
+    </platform>
+  
 <!-- Android -->
     <platform name="android">
         <!-- Define app splash screen for each platform. -->

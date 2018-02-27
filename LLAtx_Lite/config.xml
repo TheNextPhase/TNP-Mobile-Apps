@@ -66,9 +66,7 @@
     <!-- Define app icon for each platform.-->
     <!-- Android -->
     <platform name="android">
-        <splash density="mdpi" platform="android" src="res/icon/android/mdpi.png" />
-        <splash density="hdpi" platform="android" src="res/icon/android/hdpi.png" />
-        <splash density="xhdpi" platform="android" src="res/icon/android/xhdpi.png" />
+        <splash src="res/screen/android/drawable/splash.9.png" />
     </platform>
 
 <!-- IOS Versions 7+ --> 

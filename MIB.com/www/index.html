@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;"> -->
+
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <!-- <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width"> -->
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link rel="stylesheet" href="https://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+        <link rel="stylesheet" href="css/fontAwesome/css/font-awesome.min.css">
+        <script src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <script src="https://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <!--<title>MedIntelliBase.com</title>-->
+    </head>
+    <body>
+        <div data-role="header" align="center" class="header">
+            <h2 class="header"> <em>MedIntelliBase&reg;</em> Intelligence</h2>
+        </div>
+        <div class="app">
+            <div id="deviceready" class="blink">
+                <p class="event listening">
+                <p class="event received">
+            </div>
+        </div>
+        <div data-role="links" align="center">
+
+        <input 
+            id="Home" 
+            value="MedIntelliBase Home" 
+            type="button" 
+            name="Home" 
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="head"
+            onclick="openPage.homeButton();">
+
+        <input 
+            id="intelSolutions" 
+            value="Intelligence Solutions" 
+            type="button" 
+            name="intelSolutions" 
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="newglass"
+            onclick="openPage.intelSolutions();">
+
+        <input 
+            id="intelSoftware" 
+            value="Intelligence Software" 
+            type="button" 
+            name="intelSoftware"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="black_dev" 
+            onclick="openPage.intelSoftware();">
+
+        <input 
+            id="contactUs" 
+            value="Contact Us" 
+            type="button" 
+            name="contactUs"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="service" 
+            onclick="openPage.contactUS();">
+
+        <input 
+            id="search" 
+            value="Search" 
+            type="button" 
+            name="search"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="search" 
+            onclick="openPage.search();">
+
+        </div>
+        <script type="text/javascript">
+            // goes to object app and runs the initialize functions
+            app.initialize();
+        </script>
+    </body>
+</html>

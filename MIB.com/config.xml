@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.thenextphase.mib" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MedIntelliBase.com</name>
+    <description>
+        MedIntelliBase Promotional Website App
+    </description>
+    <author email="gph@medintellibase.com" href="https://www.medintellibase.com">
+        MedIntelliBase
+    </author>
+    <icon src="icon.jpg" />
+    <platform name="android">
+        <splash src="res/screen/android/drawable/splash.9.png" />
+    </platform>
+    <feature name="StatusBar">
+        <param name="ios-package" onload="true" value="CDVStatusBar" />
+    </feature>
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="phonegap-version" value="cli-8.0.0" />
+    <preference name="orientation" value="default" />
+    <preference name="target-device" value="universal" />
+    <preference name="fullscreen" value="false" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="prerendered-icon" value="true" />
+    <preference name="stay-in-webview" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="detect-data-types" value="true" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="exit-on-suspend" value="false" />
+    <preference name="show-splash-screen-spinner" value="true" />
+    <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="disable-cursor" value="false" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="android-installLocation" value="auto" />
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="cordova-plugin-console" />
+    <plugin name="cordova-plugin-device" version="1.1.6" />
+    <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <plugin name="cordova-plugin-file-transfer" />
+    <plugin name="cordova-plugin-file" />
+    <plugin name="cordova-push-notifications" />
+    <plugin name="cordova-plugin-statusbar" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+    <engine name="android" spec="^7.0.0" />
+</widget>
