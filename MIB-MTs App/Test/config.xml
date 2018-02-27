@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget 
+	id="com.thenextphase.mibmarkettracks" 
+	version="1.5.0" 
+	xmlns="http://www.w3.org/ns/widgets" 
+	xmlns:gap="http://cordova.apache.org/ns/1.0">
+	
+    <name>MIB MarketTracks</name>
+	
+    <description>
+        MedIntelliBase MarketTracks Access Application
+    </description>
+	
+    <author email="gph@medintellibase.com" href="https://www.medintellibase.com">
+        MedIntelliBase
+    </author>
+	
+    <icon src="icon.png" />
+	
+<!-- Android -->
+    <platform name="android">
+        <!-- Define app splash screen for each platform. -->
+        <splash src="res/screen/android/drawable/splash.9.png" />
+    </platform>
+	
+    <preference name="phonegap-version" value="cli-8.0.0" />
+    <preference name="orientation" value="portrait" />
+    <preference name="target-device" value="universal" />
+    <preference name="fullscreen" value="false" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="prerendered-icon" value="true" />
+    <preference name="stay-in-webview" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="detect-data-types" value="true" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="exit-on-suspend" value="false" />
+    <preference name="show-splash-screen-spinner" value="true" />
+    <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="disable-cursor" value="false" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="android-installLocation" value="auto" />
+	
+    <plugin name="cordova-plugin-console" />
+    <plugin name="cordova-plugin-device" version="1.1.6" />
+    <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <plugin name="cordova-plugin-file-transfer" />
+    <plugin name="cordova-plugin-file" />
+    <plugin name="cordova-push-notifications" />
+    <plugin name="cordova-plugin-statusbar" />
+	<plugin name="cordova-plugin-whitelist" />
+	
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+	
+</widget>
