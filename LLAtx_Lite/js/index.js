@@ -43,10 +43,10 @@
     },      
     marketTracks: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://www.medintellibasealerts.com/portal/mib-markettracks2', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/mibaapp', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('https://www.medintellibasealerts.com/portal/mib-markettracks2', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/mibaapp', '_blank', 'location=no,enableViewportScale=yes');
         }
     }
 
