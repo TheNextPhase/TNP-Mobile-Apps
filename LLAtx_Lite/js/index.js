@@ -25,25 +25,25 @@
  var openPage = {
     breakingNews: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://medintellibasealerts.com/mibaapp/breakingnews?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_468_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/mibaapp/breakingnews?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_468_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('https://medintellibasealerts.com/mibaapp/breakingnews?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_468_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/mibaapp/breakingnews?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_468_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
         }
         
     },
     currentAlert: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://medintellibasealerts.com/mibaapp/currentalert?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&func=&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_188_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/mibaapp/currentalert?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&func=&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_188_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('https://medintellibasealerts.com/mibaapp/currentalert?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&func=&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_188_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/mibaapp/currentalert?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&func=&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_188_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
         }
         
     },      
     marketTracks: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://www.medintellibasealerts.com/portal/mib-markettracks2?webguiCsrfToken=8YhuTfd3ijwmigbZpZQ4pA&func=&subjectId=Nv_fHmLxuBFayDWF3nOGRw&macro_subjectId_188_jDS=Medical', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/portal/mib-markettracks2', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
             window.open('https://www.medintellibasealerts.com/portal/mib-markettracks2', '_blank', 'location=no,enableViewportScale=yes');

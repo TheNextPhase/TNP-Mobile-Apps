@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.thenextphase.llatxlite"
-        version   = "2.3.0">
+        version   = "2.4.0">
 
     <name>MIB LLA Tx Lite</name>
 
@@ -23,6 +23,14 @@
     -->
     <!--gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" /-->
 
+	<icon src="icon.png" />
+
+    <!-- Define app icon for each platform.-->
+    <!-- Android -->
+    <platform name="android">
+        <splash src="res/screen/android/drawable/splash.9.png" />
+    </platform>
+	
     <feature name="StatusBar">
         <param name="ios-package" value="CDVStatusBar" onload="true" />
     </feature>
@@ -60,14 +68,6 @@
     
     <plugin name="cordova-push-notifications" />
     <plugin name="cordova-plugin-statusbar" />
-
-    <icon src="icon.png" />
-
-    <!-- Define app icon for each platform.-->
-    <!-- Android -->
-    <platform name="android">
-        <splash src="res/screen/android/drawable/splash.9.png" />
-    </platform>
 
 <!-- IOS Versions 7+ --> 
 <!-- iPhone 6 / 6+ -->
@@ -111,7 +111,7 @@
     </platform>
     
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>2.3.0</string>
+        <string>2.4.0</string>
     </gap:config-file>
     <!--
         Define access to external domains.

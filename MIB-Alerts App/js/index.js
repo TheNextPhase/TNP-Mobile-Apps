@@ -25,10 +25,10 @@ var counterNumber;
 var openPage = {
     currentAlert: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://medintellibasealerts.com/mibaapp/currentalert', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/mibaapp/currentalert', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('https://medintellibasealerts.com/mibaapp/currentalert', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/mibaapp/currentalert', '_blank', 'location=no,enableViewportScale=yes');
         }
     },  
 	unreadAlerts: function () {
