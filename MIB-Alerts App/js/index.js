@@ -57,6 +57,15 @@ var openPage = {
         }
         
     },
+	searchArticles: function () {
+        if (device.platform == 'android' || device.platform == 'Android') {
+            window.open('https://www.medintellibasealerts.com/articles-db', '_system', 'location=yes,enableViewportScale=yes');
+        }
+        else {
+            window.open('https://www.medintellibasealerts.com/articles-db', '_blank', 'location=yes,enableViewportScale=yes');
+        }
+        
+    },
 	searchAlerts: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
             window.open('https://www.medintellibasealerts.com/home/medintellibase/medintellibase?func=alertArchive', '_system', 'location=yes,enableViewportScale=yes');
