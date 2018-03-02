@@ -3,8 +3,8 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.thenextphase.llatxlite"
-        version   = "2.3.0">
+        id        = "com.thenextphase.mibllatxlite"
+        version   = "2.3.1">
 
     <name>MIB LLA Tx Lite</name>
 
@@ -112,7 +112,7 @@
     </platform>
     
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>2.3.0</string>
+        <string>2.3.1</string>
     </gap:config-file>
     <!--
         Define access to external domains.
