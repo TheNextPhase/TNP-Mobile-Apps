@@ -3,8 +3,8 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.thenextphase.mibllatxlite"
-        version   = "2.3.1">
+        id        = "com.thenextphase.llatxlite"
+        version   = "2.4.1">
 
     <name>MIB LLA Tx Lite</name>
 
@@ -24,12 +24,22 @@
     -->
     <!--gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" /-->
 
+	<icon src="icon.png" />
+
+    <!-- Define app icon for each platform.-->
+    <!-- Android -->
+    <platform name="android">
+        <splash src="res/screen/android/drawable/splash.9.png" />
+    </platform>
+	
     <feature name="StatusBar">
         <param name="ios-package" value="CDVStatusBar" onload="true" />
     </feature>
 
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version"           value="cli-8.0.0" />          <!-- all: current version of PhoneGap -->
+    <preference name="SplashMaintainAspectRatio" value="true" />
+	  <preference name="phonegap-version"           value="cli-8.0.0" />          <!-- all: current version of PhoneGap -->
+    <preference name="orientation"                value="portrait" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="false" />           <!-- all: hides the status bar at the top of the screen -->
     <preference name="webviewbounce"              value="false" />           <!-- ios: control whether the screen 'bounces' when scrolled beyond the top -->
@@ -61,14 +71,6 @@
     
     <plugin name="cordova-push-notifications" />
     <plugin name="cordova-plugin-statusbar" />
-
-    <icon src="icon.png" />
-
-    <!-- Define app icon for each platform.-->
-    <!-- Android -->
-    <platform name="android">
-        <splash src="res/screen/android/drawable/splash.9.png" />
-    </platform>
 
 <!-- IOS Versions 7+ --> 
 <!-- iPhone 6 / 6+ -->
@@ -112,7 +114,7 @@
     </platform>
     
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>2.3.1</string>
+        <string>2.4.1</string>
     </gap:config-file>
     <!--
         Define access to external domains.

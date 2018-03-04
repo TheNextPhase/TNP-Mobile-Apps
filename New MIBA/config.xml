@@ -4,7 +4,7 @@
 <widget xmlns     = "https://www.w3.org/ns/widgets"
         xmlns:gap ="http://phonegap.com/ns/1.0"
         id        = "com.thenextphase.miba"
-        version   = "2.5.0">
+        version   = "2.5.1">
 
     <name>MedIntelliBase Intel</name>
 
@@ -28,6 +28,7 @@
     </feature>
 
     <!-- Customize your app and platform with the preference element. -->
+	<preference name="SplashMaintainAspectRatio"  value="true" />
    	<preference name="phonegap-version"           value="cli-8.0.0" />         <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="portrait" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
@@ -52,10 +53,7 @@
 
 <!-- Android -->
     <platform name="android">
-        <!-- Define app splash screen for each platform. -->
-        <splash density="mdpi" platform="android" src="res/icon/android/mdpi.png" />
-        <splash density="hdpi" platform="android" src="res/icon/android/hdpi.png" />
-        <splash density="xhdpi" platform="android" src="res/icon/android/xhdpi.png" />
+		<splash src="res/screen/android/drawable/splash.9.png" />
     </platform>
 
 <!-- IOS Versions 7+ --> 
