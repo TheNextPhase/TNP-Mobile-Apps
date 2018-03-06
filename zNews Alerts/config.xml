@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.thenextphase.zoll" version="2.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>zNews Alerts</name>
+    <description>
+         zNews Alerts 
+    </description>
+    <author email="gph@thenextphase.com" href="https://www.medintellibase.com">
+          MedIntelliBase
+    </author>
+    <content src="index.html" />
+    <feature name="StatusBar">
+        <param name="ios-package" onload="true" value="CDVStatusBar" />
+    </feature>
+    <preference name="SplashMaintainAspectRatio"  value="true" />
+	<preference name="phonegap-version" value="cli-8.0.0" />
+    <preference name="orientation" value="portrait" />
+    <preference name="target-device" value="universal" />
+    <preference name="fullscreen" value="false" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="prerendered-icon" value="true" />
+    <preference name="stay-in-webview" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="detect-data-types" value="true" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="exit-on-suspend" value="false" />
+    <preference name="show-splash-screen-spinner" value="true" />
+    <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="disable-cursor" value="false" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="android-installLocation" value="auto" />
+    <plugin name="cordova-plugin-console" />
+    <plugin name="cordova-plugin-device" version="1.1.6" />
+    <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-file" />
+    <plugin name="cordova-plugin-file-transfer" />
+    <plugin name="cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <plugin name="cordova-plugin-whitelist" />
+    <plugin name="cordova-push-notifications" />
+    <plugin name="cordova-plugin-statusbar" />
+    <icon src="icon.png" />
+    <platform name="android">
+		<splash src="res/screen/android/drawable/splash.9.png" />
+    </platform>
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+</widget>
