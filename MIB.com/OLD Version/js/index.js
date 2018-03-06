@@ -55,10 +55,10 @@ var openPage = {
     },      
     contactUS: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('http://medintellibase.com/contact-2/', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('http://medintellibase.com/contact/', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('http://medintellibase.com/contact-2/', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('http://medintellibase.com/contact/', '_blank', 'location=no,enableViewportScale=yes');
         }
     },
     search: function () {

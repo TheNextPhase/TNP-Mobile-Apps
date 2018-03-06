@@ -46,7 +46,7 @@ h2.header.ui-title {
 
 .ui-icon.ui-icon-service {
     background-image: url('res/linkIcons/service.png');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -54,7 +54,7 @@ h2.header.ui-title {
 
 .ui-icon.ui-icon-head {
     background-image: url('res/linkIcons/head.jpg');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -62,7 +62,7 @@ h2.header.ui-title {
     
 .ui-icon.ui-icon-feed {
     background-image: url('res/linkIcons/RSSGuy.jpg');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -70,7 +70,7 @@ h2.header.ui-title {
 
 .ui-icon.ui-icon-newglassdot {
     background-image: url('res/linkIcons/newglassdot.png');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -78,7 +78,7 @@ h2.header.ui-title {
 
 .ui-icon.ui-icon-tracks {
     background-image: url('res/linkIcons/tracks.jpg');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -86,7 +86,7 @@ h2.header.ui-title {
     
 .ui-icon.ui-icon-report{
     background-image: url('res/linkIcons/newsboy.png');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -94,7 +94,7 @@ h2.header.ui-title {
 
 .ui-icon.ui-icon-reportgreen{
     background-image: url('res/linkIcons/newsboygreen.png');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -102,7 +102,7 @@ h2.header.ui-title {
 
 .ui-icon.ui-icon-reportbadge{
     background-image: url('res/linkIcons/newsboybadge.png');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -133,7 +133,7 @@ h2.header.ui-title {
     }
 .ui-icon.ui-icon-litsearch {
     background-image: url('res/linkIcons/litsearch.jpg');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -141,7 +141,7 @@ h2.header.ui-title {
 
 .ui-icon.ui-icon-green_dev {
     background-image: url('res/linkIcons/green_dev.png');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
@@ -149,22 +149,22 @@ h2.header.ui-title {
 
 .ui-icon.ui-icon-blue_dev {
     background-image: url('res/linkIcons/blue_dev.png');
-    background-color: rgba(255,255,255);
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
 }
 
-.ui-icon.ui-icon-black_dev {
-    background-image: url('res/linkIcons/black_dev.png');
-    background-color: rgba(255,255,255);
+.ui-icon.ui-icon-darkwebdev {
+    background-image: url('res/linkIcons/darkwebdev.png');
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
 }
-.ui-icon.ui-icon-mobile {
-    background-image: url('res/linkIcons/mobile.png');
-    background-color: rgba(255,255,255);
+.ui-icon.ui-icon-darkappdev {
+    background-image: url('res/linkIcons/darkappdev.png');
+    background-color: rgb(255,255,255);
     width:24px;
     height: 24px;
     margin-top: -11px !important; /* adjust vertical position (top value is set to 50%) */
