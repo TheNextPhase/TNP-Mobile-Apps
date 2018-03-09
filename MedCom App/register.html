@@ -39,19 +39,21 @@
 
 
     function fetchToken () {
-        var username = document.getElementById("#username").value;
-        var password = document.getElementById("#password").value;
-        
+        var username = document.getElementById("username").value;
+        var password = document.getElementById("password").value;
+        alert("username: "+username+" password: "+password);
         //console.log("username: "+username+" password: "+password);
         
         $.ajax({
             type       : "POST",
-            url        : "https://medcomalerts.com/api/session",
+            url        : "https://www.medcomalerts.com/api/session",
             crossDomain: true,
+			jsonp	   : false,
             data       : { "username" : username, "password" : password },
             dataType   : 'json',
             success    : function(response) {
                 console.log("enter success mode");
+				alert("enter success mode");
                 console.log(JSON.stringify(response));//SUCCESS
                 if(response.status == 454){
                     console.log(JSON.stringify(response.message)); //Username and password do not match
@@ -63,7 +65,6 @@
                     localStorage.setItem("plainBlackToken", receivedToken);
                     alert("You have succesfully registered for push notifications on this device.")
                     window.location = "index.html";
-                    
                 }
             },
             error      : function(response, result) {

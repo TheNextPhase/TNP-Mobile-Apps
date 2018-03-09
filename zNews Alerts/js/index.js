@@ -85,8 +85,6 @@
             window.open('https://www.resuscitationalerts.com/home/medintellibase/medintellibase?func=alertArchive', '_blank', 'location=yes,enableViewportScale=yes');
         }
     }
-    
-
 };
 
 var app = {

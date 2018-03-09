@@ -98,30 +98,51 @@ var app = {
     // Update DOM on a Received Event
     receivedEvent: function (id) {
         var pushNotification = window.plugins.pushNotification;
-        
-        //Runs correct code depending on system
-        if (device.platform == 'android' || device.platform == 'Android') {
-
-            //App id = 525562947054
-
-            pushNotification.register(this.successHandler, this.errorHandler, { "senderID": "525562947054", "ecb": "app.onNotificationGCM" });
-        }
-        else {
-            pushNotification.register(this.tokenHandler, this.errorHandler, { "badge": "true", "sound": "true", "alert": "true", "ecb": "app.onNotificationAPN" });
-        }
-
-                    //var tempKeyGrab = localStorage.getItem("plainBlackToken");
-                    //prompt("This is the PlainBlack Token: " , tempKeyGrab);
-
-
         var parentElement = document.getElementById(id);
         var listeningElement = parentElement.querySelector('.listening');
         var receivedElement = parentElement.querySelector('.received');
 
         listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
+        receivedElement.setAttribute('style', 'display:block;');   
+		
+        //Runs correct code depending on system
+        if (device.platform == 'android' || device.platform == 'Android') {
 
-        console.log('Received Event: ' + id);
+            //App id = 525562947054
+
+            pushNotification.register(
+				this.successHandler, 
+				this.errorHandler, 
+				{ 
+					"senderID": "525562947054", 
+					"ecb": "app.onNotificationGCM" 
+				}
+			);
+        }
+        else {
+            pushNotification.register(
+				this.tokenHandler, 
+				this.errorHandler, 
+				{ 
+					"badge": "true", 
+					"sound": "true", 
+					"alert": "true", 
+					"ecb": "app.onNotificationAPN" 
+				}
+			);
+			plainBlackToken = localStorage.getItem("plainBlackToken");
+            if(plainBlackToken == null){
+                //alert("plainBlackToken==null");
+                //alert("plainBlackToken == null, heading to registration page");
+                // GCM doesn't go to register page immediately despite firing here
+                window.location = "register.html";
+            }
+        }
+
+        //var tempKeyGrab = localStorage.getItem("plainBlackToken");
+        //prompt("This is the PlainBlack Token: " , tempKeyGrab);
+
+        //console.log('Received Event: ' + id);
         //alert('Received Event: ' + id);
     },
 
@@ -212,21 +233,22 @@ var app = {
             var deviceType = "APNs";
         }
 
-        console.log("before parse");
-        console.log(plainBlackToken);
+        //console.log("before parse");
+        //console.log(plainBlackToken);
         //alert("before parse: {}".format(plainBlackToken));
         var plainBlackGetToken = JSON.parse(plainBlackToken);
-        console.log("after parse");
-        console.log(plainBlackGetToken.session_token);
+        //console.log("after parse");
+        //console.log(plainBlackGetToken.session_token);
         //alert("after parse: {}".format(plainBlackGetToken.session_token));
         // var datastring = ('{"session_token" : ' + plainBlackGetToken.session_token + ', "push_token" : ' + push_token + ', "token_type" : ' + deviceType + '}');
         //console.log(datastring);
-        console.log("about to do the ajax");
+        //console.log("about to do the ajax");
         //alert("about to do the ajax");
         $.ajax({
             type       : "POST",
-            url        : "https://medcomalerts.com/api/push_token",
+            url        : "https://www.medcomalerts.com/api/push_token",
             crossDomain: true,
+			jsonp	   : false,
             data       : { "session_token" : plainBlackGetToken.session_token, "app_id" : 525562947054, "push_token" : push_token, "token_type" : deviceType },
             //data       : { "session_token" : plainBlackGetToken.session_token, "push_token" : push_token, "token_type" : deviceType },
             //data        : datastring,
