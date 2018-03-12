@@ -66,12 +66,20 @@
             window.open('https://www.medcomalerts.com/portal/usmi-request-form2-mobile', '_blank', 'location=yes,enableViewportScale=yes');
         }
     },
-    investigatorsDirectory: function () {
+    PAHinvestigatorDirectory: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
             window.open('https://www.medcomalerts.com/home/medintellibase?webguiCsrfToken=vG7HxEQaC2ze2_pAbJ6iJw&func=&subjectId=d8eebbHgo_xjRbIOlRQFJw&macro_subjectId_375_jDS=Investigator+Directory', '_system', 'location=yes,enableViewportScale=yes');
         }
         else {
             window.open('https://www.medcomalerts.com/home/medintellibase?webguiCsrfToken=vG7HxEQaC2ze2_pAbJ6iJw&func=&subjectId=d8eebbHgo_xjRbIOlRQFJw&macro_subjectId_375_jDS=Investigator+Directory', '_blank', 'location=yes,enableViewportScale=yes');
+        }
+    },
+    AspireInvestigatorDirectory: function () {
+        if (device.platform == 'android' || device.platform == 'Android') {
+            window.open('https://www.medcomalerts.com/home/medintellibase?webguiCsrfToken=NAMIZ_DZyEsunFXXsEQ-Ww&func=&subjectId=uR1x8HWHDRzRSjIrRAcX8Q&macro_subjectId_177_jDS=Investigator+Directory', '_system', 'location=yes,enableViewportScale=yes');
+        }
+        else {
+            window.open('https://www.medcomalerts.com/home/medintellibase?webguiCsrfToken=NAMIZ_DZyEsunFXXsEQ-Ww&func=&subjectId=uR1x8HWHDRzRSjIrRAcX8Q&macro_subjectId_177_jDS=Investigator+Directory', '_blank', 'location=yes,enableViewportScale=yes');
         }
     }
 };

@@ -3,8 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.actelion.elitalerts"
-        version   = "3.3.0">
+        id        = "us.actelion.medcom"
+        version   = "3.3.1">
+
+    <!-- id        = "com.actelion.elitalerts" -->
 
     <name>MedCom</name>
 
@@ -117,7 +119,7 @@
 	</platform>
 	
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-    <string>3.3.0</string>
+    <string>3.3.1</string>
     </gap:config-file>
 
 	<content src="index.html"/>

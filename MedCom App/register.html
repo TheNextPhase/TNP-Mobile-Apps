@@ -41,7 +41,7 @@
     function fetchToken () {
         var username = document.getElementById("username").value;
         var password = document.getElementById("password").value;
-        alert("username: "+username+" password: "+password);
+        //alert("username: "+username+" password: "+password);
         //console.log("username: "+username+" password: "+password);
         
         $.ajax({
@@ -53,7 +53,7 @@
             dataType   : 'json',
             success    : function(response) {
                 console.log("enter success mode");
-				alert("enter success mode");
+				//alert("enter success mode");
                 console.log(JSON.stringify(response));//SUCCESS
                 if(response.status == 454){
                     console.log(JSON.stringify(response.message)); //Username and password do not match
