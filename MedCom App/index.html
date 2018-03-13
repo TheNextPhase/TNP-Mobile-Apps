@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <!--<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />-->
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>MedCom</title>
+        <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="PushNotification.js"></script>
+ 	</head>
+
+
+<body>
+    <div data-role="header" align="center">
+        <h2> <em>US Medical Communications</em></h2>
+    </div><!-- /header -->
+    <div class="app">
+        <div id="deviceready" class="blink">
+            <p class="event listening">
+            <p class="event received">
+        </div>
+    </div>
+    <div data-role="links" align="center">
+
+
+        <input 
+        	id="currentAlert" 
+        	value="Current Lit Alert" 
+        	type="button" 
+        	name="currentAlert" 
+           	class="mybutton"
+           	data-iconshadow="false"
+           	data-corners="true"
+           	data-theme=""
+           	data-icon="report"
+        	onclick="openPage.report();">
+
+        <input 
+        	id="unreadAlerts" 
+        	value="Unread Lit Alerts" 
+        	type="button" 
+        	name="unreadAlerts"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="reportbadge" 
+        	onclick="openPage.unreadAlerts();">
+
+        <input 
+        	id="userAlerts" 
+        	value="User Lit Alerts" 
+        	type="button" 
+        	name="userAlerts"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="reportgreen"
+        	onclick="openPage.userAlerts();">
+
+        <input 
+        	id="abstractSearch" 
+        	value="Quick Search" 
+        	type="button" 
+        	name="abstractSearch"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="sglass" 
+        	onclick="openPage.abstractSearch();">
+
+        <input 
+            id="PAHinvestigatorDirectory" 
+            value="Investigator Directory - PAH" 
+            type="button" 
+            name="PAHinvestigatorDirectory"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="sglass"
+            onclick="openPage.PAHinvestigatorDirectory();">
+
+        <input 
+            id="AspireInvestigatorDirectory" 
+            value="Investigator Directory - ASPIRE" 
+            type="button" 
+            name="AspireInvestigatorDirectory"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="sglass"
+            onclick="openPage.AspireInvestigatorDirectory();">
+
+        <input 
+        	id="requestForm" 
+        	value="Web Request Form - MSL Only" 
+        	type="button" 
+        	name="requestForm"
+            class="mybutton"
+            data-iconshadow="false"
+            data-corners="true"
+            data-theme=""
+            data-icon="service"
+        	onclick="openPage.requestForm();">
+
+
+
+<!-- 
+        <input 
+        	type="button" 
+        	class="myButton" 
+        	data-icon="sglass" 
+        	id="pushRegister" 
+        	value="Register For Push Notifications"
+        	name="pushRegister" 
+        	onclick="window.location = 'register.html';"> -->
+       
+
+        	
+
+
+
+    </div>
+    
+
+        <script type="text/javascript">
+            // goes to object app and runs the initialize functions
+            app.initialize();
+        </script>
+   
+
+</body>
+
+
+
+</html>
