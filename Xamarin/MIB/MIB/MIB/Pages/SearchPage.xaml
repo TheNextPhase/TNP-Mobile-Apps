@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MIB.SearchPage">
+    <!-- Adds padding on top for iOS device-->
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0" />
+            <On Platform="Android, WinPhone, Windows" Value="0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+    <StackLayout>
+        <Button Text="MIB Intelligence Solutions" Clicked="IntelSolution" />
+        <Button Text="MIB Custom Alerts" Clicked="CustomAlerts" />
+        <Button Text="MIB Custom BreakingNews™" Clicked="BreakingNews" />
+        <Button Text="MIB Custom MarketTracks™" Clicked="MarketTracks" />
+        <Button Text="MIB Custom LitSearches" Clicked="LitSearches" />
+        <Button Text="MIB Alerts™ Mobile Apps" Clicked="MobileApps" />
+        <Button Text="MIB Alerts™ DIY Software" Clicked="IntelSoftware" />
+    </StackLayout>
+</ContentPage>

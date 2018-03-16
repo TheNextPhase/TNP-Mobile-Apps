@@ -1,0 +1,12 @@
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\bin\Debug\netstandard2.0\MIB.deps.json
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\bin\Debug\netstandard2.0\MIB.dll
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\bin\Debug\netstandard2.0\MIB.pdb
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.csproj.CoreCompileInputs.cache
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.Pages.App.xaml.g.cs
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.Pages.MainPage.xaml.g.cs
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.Pages.SearchPage.xaml.g.cs
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.Pages.WebPage.xaml.g.cs
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.AssemblyInfoInputs.cache
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.AssemblyInfo.cs
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.dll
+C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB\obj\Debug\netstandard2.0\MIB.pdb

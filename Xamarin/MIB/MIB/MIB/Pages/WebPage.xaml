@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MIB.WebPage"
+             Title="{Binding Title}">
+    <!-- Adds padding on top for iOS device-->
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0" />
+            <On Platform="Android, WinPhone, Windows" Value="0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+    <StackLayout>
+        <WebView x:Name="webpage" VerticalOptions ="FillAndExpand"/>
+    </StackLayout>
+</ContentPage>
