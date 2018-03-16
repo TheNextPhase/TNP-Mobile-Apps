@@ -25,10 +25,10 @@ var counterNumber;
 var openPage = {
     currentAlert: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://www.medintellibasealerts.com/home/currentalert', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/home/medintellibase', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('https://www.medintellibasealerts.com/home/currentalert', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/home/medintellibase', '_blank', 'location=no,enableViewportScale=yes');
         }
     },  
 	unreadAlerts: function () {
@@ -41,10 +41,10 @@ var openPage = {
     },
 	breakingNews: function () {
         if (device.platform == 'android' || device.platform == 'Android') {
-            window.open('https://www.medintellibasealerts.com/home/breakingnews', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/home/breaking-news', '_blank', 'location=no,enableViewportScale=yes');
         }
         else {
-            window.open('https://www.medintellibasealerts.com/home/breakingnews', '_blank', 'location=no,enableViewportScale=yes');
+            window.open('https://www.medintellibasealerts.com/home/breaking-news', '_blank', 'location=no,enableViewportScale=yes');
         }
         
     },
@@ -54,6 +54,24 @@ var openPage = {
         }
         else {
             window.open('https://www.medintellibasealerts.com/home/medintellibase/medintellibase?func=search', '_blank', 'location=yes,enableViewportScale=yes');
+        }
+        
+    },
+	searchArticles: function () {
+        if (device.platform == 'android' || device.platform == 'Android') {
+            window.open('https://www.medintellibasealerts.com/articles-db', '_system', 'location=yes,enableViewportScale=yes');
+        }
+        else {
+            window.open('https://www.medintellibasealerts.com/articles-db', '_blank', 'location=yes,enableViewportScale=yes');
+        }
+        
+    },
+	searchAlerts: function () {
+        if (device.platform == 'android' || device.platform == 'Android') {
+            window.open('https://www.medintellibasealerts.com/home/medintellibase/medintellibase?func=alertArchive', '_system', 'location=yes,enableViewportScale=yes');
+        }
+        else {
+            window.open('https://www.medintellibasealerts.com/home/medintellibase/medintellibase?func=alertArchive', '_blank', 'location=yes,enableViewportScale=yes');
         }
         
     },
