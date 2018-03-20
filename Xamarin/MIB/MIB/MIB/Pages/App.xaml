@@ -13,6 +13,7 @@
                 <Setter Property="BorderRadius" Value="10"/>
                 <Setter Property="FontAttributes" Value="Bold"/>
                 <Setter Property="BackgroundColor" Value="LightGray"/>
+                <Setter Property="BorderColor" Value="Transparent"/>
                 
             </Style>
         </ResourceDictionary>

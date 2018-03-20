@@ -11,6 +11,9 @@
         </OnPlatform>
     </ContentPage.Padding>
     <StackLayout>
-        <WebView x:Name="webpage" VerticalOptions ="FillAndExpand"/>
+        <ProgressBar x:Name="progress" BackgroundColor="#2c2c2c" Progress="0.2" HorizontalOptions="FillAndExpand" IsVisible="True"/>
+        <WebView x:Name="webpage" VerticalOptions ="FillAndExpand" HorizontalOptions="FillAndExpand" 
+                 Navigating="WebView_OnNavigating"
+                 Navigated="WebView_OnNavigated"/>
     </StackLayout>
 </ContentPage>

@@ -6,6 +6,7 @@
              Title="MedIntelliBase® Intelligence"
              NavigationPage.HasNavigationBar="True"
              Icon="head.jpg"
+             
              Style="{StaticResource contentPage}"
              NavigationPage.HasBackButton="False">
     <!-- Adds padding on top for iOS device-->
