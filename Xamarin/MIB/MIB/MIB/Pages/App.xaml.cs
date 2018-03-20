@@ -10,11 +10,12 @@ namespace MIB
 		public App ()
 		{
 			InitializeComponent();
-            NavigationPage MainPage = new NavigationPage(new MainPage());
-            // MainPage.BarBackgroundColor = Color.Black;
-            // MainPage.BarTextColor = Color.White;
-            // ((NavigationPage)Application.Current.MainPage).BarBackgroundColor = Color.Black;
-            // ((NavigationPage)Application.Current.MainPage).BarTextColor = Color.OrangeRed;
+            MainPage = new NavigationPage(new MainPage())
+            {
+                BarBackgroundColor = Color.FromHex("#2c2c2c"), 
+                BarTextColor = Color.White,
+                //Icon = ImageSource("Images/head.jpg")
+            };
         }
 
 		protected override void OnStart ()

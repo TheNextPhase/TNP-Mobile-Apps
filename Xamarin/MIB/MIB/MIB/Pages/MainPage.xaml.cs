@@ -20,26 +20,30 @@ namespace MIB
             InitializeComponent();
         }
 
-        async void Home_Clicked(object sender, EventArgs e)
+        void Home_Clicked(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, HOME_URL));
+            Device.OpenUri(new Uri(HOME_URL));
+            //await Navigation.PushAsync(new WebPage(title, HOME_URL));
         }
-        async void IntelSolution_Clicked (object sender, EventArgs e)
+        void IntelSolution_Clicked (object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, INTELSOLUTION_URL));
+            Device.OpenUri(new Uri(INTELSOLUTION_URL));
+            //await Navigation.PushAsync(new WebPage(title, INTELSOLUTION_URL));
         }
 
-        async void IntelSoftware_Clicked(object sender, EventArgs e)
+        void IntelSoftware_Clicked(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, INTELSOFTWARE_URL));
+            Device.OpenUri(new Uri(INTELSOFTWARE_URL));
+            //await Navigation.PushAsync(new WebPage(title, INTELSOFTWARE_URL));
         }
-        async void Contact_Clicked(object sender, EventArgs e)
+        void Contact_Clicked(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, CONTACTS_URL));
+            Device.OpenUri(new Uri(CONTACTS_URL));
+            //await Navigation.PushAsync(new WebPage(title, CONTACTS_URL));
         }
         async void Search_Clicked(object sender, EventArgs e)
         {

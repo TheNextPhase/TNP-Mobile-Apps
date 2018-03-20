@@ -5,9 +5,9 @@
              x:Class="MIB.MainPage"
              Title="MedIntelliBase® Intelligence"
              NavigationPage.HasNavigationBar="True"
+             Icon="head.jpg"
              Style="{StaticResource contentPage}"
              NavigationPage.HasBackButton="False">
-    
     <!-- Adds padding on top for iOS device-->
     <ContentPage.Padding >
         <OnPlatform x:TypeArguments="Thickness">
@@ -17,15 +17,10 @@
     </ContentPage.Padding>
 
     <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="10">
-        <Button Text="MedIntelliBase Home" Clicked="Home_Clicked" Style="{StaticResource button}"/>
-        <Button Text="Intelligence Solutions" Clicked="IntelSolution_Clicked" Style="{StaticResource button}"/>
-        <Button Text="Intelligence Software" Clicked="IntelSoftware_Clicked" Style="{StaticResource button}"/>
-        <Button Text="Contact Us" Clicked="Contact_Clicked" Style="{StaticResource button}"/>
-        <Button Text="Search" Clicked="Search_Clicked" Style="{StaticResource button}"/>
-        <!--<LinkButton Content="MedIntelliBase® Intelligence" NavigateUri="http://www.medintellibase.com/"/>
-        <LinkButton Content="Intelligence Solutions" NavigateUri="http://www.medintellibase.com/services-software/"/>
-        <LinkButton Content="Intelligence Software" NavigateUri="http://www.medintellibase.com/services-software/"/>
-        <LinkButton Content="Contact Us" NavigateUri="http://medintellibase.com/contact-2/"/>
-        <Button Text="Search" Clicked="Search_Clicked" Style="{StaticResource button}"/>-->
+        <Button Text="MedIntelliBase Home" Image="head.jpg" Clicked="Home_Clicked" Style="{StaticResource button}"/>
+        <Button Text="Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution_Clicked" Style="{StaticResource button}"/>
+        <Button Text="Intelligence Software" Image="black_dev.png" Clicked="IntelSoftware_Clicked" Style="{StaticResource button}"/>
+        <Button Text="Contact Us" Image="service.png" Clicked="Contact_Clicked" Style="{StaticResource button}"/>
+        <Button Text="Search" Image="search.png" Clicked="Search_Clicked" Style="{StaticResource button}"/>
     </StackLayout>
 </ContentPage>

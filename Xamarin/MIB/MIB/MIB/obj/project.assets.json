@@ -390,11 +390,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj",
+      "projectUniqueName": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj",
       "projectName": "MIB",
-      "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj",
+      "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj",
       "packagesPath": "C:\\Users\\Intern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\obj\\",
+      "outputPath": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -759,11 +759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB.iOS\\MIB.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB.iOS\\MIB.iOS.csproj",
       "projectName": "MIB.iOS",
-      "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB.iOS\\MIB.iOS.csproj",
+      "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB.iOS\\MIB.iOS.csproj",
       "packagesPath": "C:\\Users\\Intern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -780,8 +780,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj": {
-              "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj"
+            "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj": {
+              "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj"
             }
           }
         }

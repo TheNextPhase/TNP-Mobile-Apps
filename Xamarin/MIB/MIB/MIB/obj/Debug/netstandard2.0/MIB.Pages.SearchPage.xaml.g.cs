@@ -11,7 +11,8 @@
 namespace MIB {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\Pages\\SearchPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\Pages\\Sea" +
+        "rchPage.xaml")]
     public partial class SearchPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -11,7 +11,8 @@
 namespace MIB {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\Pages\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\Pages\\App" +
+        ".xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

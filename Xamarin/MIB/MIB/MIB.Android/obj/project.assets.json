@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB.Android\\MIB.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB.Android\\MIB.Android.csproj",
       "projectName": "MIB.Android",
-      "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB.Android\\MIB.Android.csproj",
+      "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB.Android\\MIB.Android.csproj",
       "packagesPath": "C:\\Users\\Intern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB.Android\\obj\\",
+      "outputPath": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -822,8 +822,8 @@
       "frameworks": {
         "monoandroid80": {
           "projectReferences": {
-            "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj": {
-              "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj"
+            "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj": {
+              "projectPath": "C:\\Users\\Intern\\Documents\\workspace\\TNP-Mobile-Apps\\Xamarin\\MIB\\MIB\\MIB\\MIB.csproj"
             }
           }
         }

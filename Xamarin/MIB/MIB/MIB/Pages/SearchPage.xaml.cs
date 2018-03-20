@@ -27,6 +27,7 @@ namespace MIB
         public SearchPage(string title)
         {
             InitializeComponent();
+            Title = title;
         }
 
         

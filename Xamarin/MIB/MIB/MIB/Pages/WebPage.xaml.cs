@@ -18,6 +18,7 @@ namespace MIB
 		{
             InitializeComponent();
             webpage.Source = url;
+            Title = title;
         }
 
     }
