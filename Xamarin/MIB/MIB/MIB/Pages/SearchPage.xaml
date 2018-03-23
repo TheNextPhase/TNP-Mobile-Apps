@@ -3,7 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MIB.SearchPage"
              NavigationPage.HasNavigationBar="True"
-             Icon="Images/search.png"
              Title="{Binding Title}"
              Style="{StaticResource contentPage}">
     <!-- Adds padding on top for iOS device-->
@@ -13,13 +12,18 @@
             <On Platform="Android, WinPhone, Windows" Value="20" />
         </OnPlatform>
     </ContentPage.Padding>
-    <StackLayout>
-        <Button Text="MIB Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution" Style="{StaticResource button}"/>
-        <Button Text="MIB Custom Alerts" Image="newglass.png" Clicked="CustomAlerts" Style="{StaticResource button}"/>
-        <Button Text="MIB Custom BreakingNews™" Image="RSSGuy.png" Clicked="BreakingNews" Style="{StaticResource button}"/>
-        <Button Text="MIB Custom MarketTracks™" Image="tracks.jpg"  Clicked="MarketTracks" Style="{StaticResource button}"/>
-        <Button Text="MIB Custom LitSearches" Image="litsearch.jpg" Clicked="LitSearches" Style="{StaticResource button}"/>
-        <Button Text="MIB Alerts™ Mobile Apps" Image="mobile.png" Clicked="MobileApps" Style="{StaticResource button}"/>
-        <Button Text="MIB Alerts™ DIY Software" Image="black_dev.png" Clicked="IntelSoftware" Style="{StaticResource button}"/>
-    </StackLayout>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Home" Icon="search.png" Text="Search" Priority="0"/>
+    </ContentPage.ToolbarItems>
+    <ScrollView >
+        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="10">
+            <Button Text="MIB Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution" Style="{StaticResource button}"/>
+            <Button Text="MIB Custom Alerts" Image="newglass.png" Clicked="CustomAlerts" Style="{StaticResource button}"/>
+            <Button Text="MIB Custom BreakingNews™" Image="RSSGuy.png" Clicked="BreakingNews" Style="{StaticResource button}"/>
+            <Button Text="MIB Custom MarketTracks™" Image="tracks.jpg"  Clicked="MarketTracks" Style="{StaticResource button}"/>
+            <Button Text="MIB Custom LitSearches" Image="litsearch.jpg" Clicked="LitSearches" Style="{StaticResource button}"/>
+            <Button Text="MIB Alerts™ Mobile Apps" Image="mobile.png" Clicked="MobileApps" Style="{StaticResource button}"/>
+            <Button Text="MIB Alerts™ DIY Software" Image="black_dev.png" Clicked="IntelSoftware" Style="{StaticResource button}"/>
+        </StackLayout>
+    </ScrollView >
 </ContentPage>

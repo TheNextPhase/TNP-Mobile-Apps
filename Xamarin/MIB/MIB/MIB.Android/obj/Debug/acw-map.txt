@@ -6,14 +6,6 @@ MIB.Droid.SplashActivity, MIB.Android;md51b767afb916f7bed6675c9ce4aebc824.Splash
 MIB.Droid.SplashActivity, MIB.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51b767afb916f7bed6675c9ce4aebc824.SplashActivity
 MIB.Droid.SplashActivity;md51b767afb916f7bed6675c9ce4aebc824.SplashActivity
 mib.droid.SplashActivity;md51b767afb916f7bed6675c9ce4aebc824.SplashActivity
-Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
-Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
-Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
-mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
-Android.Support.V4.Widget.SearchViewCompat/IOnQueryTextListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnQueryTextListenerImplementor
-Android.Support.V4.Widget.SearchViewCompat+IOnQueryTextListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnQueryTextListenerImplementor
-Android.Support.V4.Widget.SearchViewCompat.IOnQueryTextListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnQueryTextListenerImplementor
-mono.android.support.v4.widget.SearchViewCompat_OnQueryTextListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnQueryTextListenerImplementor
 Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider+ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor

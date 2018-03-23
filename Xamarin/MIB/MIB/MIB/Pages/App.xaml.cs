@@ -13,8 +13,8 @@ namespace MIB
             MainPage = new NavigationPage(new MainPage())
             {
                 BarBackgroundColor = Color.FromHex("#2c2c2c"), 
-                BarTextColor = Color.White,
-                //Icon = ImageSource("Images/head.jpg")
+                BarTextColor = Color.White //Color.FromHex("#99999"),
+               // Icon = "head.jpg"
             };
         }
 

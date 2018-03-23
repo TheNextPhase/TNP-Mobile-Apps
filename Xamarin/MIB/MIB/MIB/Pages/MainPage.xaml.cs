@@ -18,6 +18,8 @@ namespace MIB
         public MainPage()
         {
             InitializeComponent();
+            //NavigationPage.SetTitleIcon(this, "head.jpg");
+           // this.BackgroundImage = "bgimage.png";
         }
 
         void Home_Clicked(object sender, EventArgs e)

@@ -23,7 +23,8 @@ namespace MIB
         public SearchPage ()
 		{
 			InitializeComponent ();
-		}
+            //NavigationPage.SetTitleIcon(this, "search.png");
+        }
         public SearchPage(string title)
         {
             InitializeComponent();
