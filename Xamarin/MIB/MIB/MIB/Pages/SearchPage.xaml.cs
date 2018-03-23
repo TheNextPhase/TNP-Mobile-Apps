@@ -30,46 +30,52 @@ namespace MIB
             Title = title;
         }
 
-        
-        async void IntelSolution(object sender, EventArgs e)
+        void IntelSolution(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, INTELSOLUTION_URL));
+            Device.OpenUri(new Uri(INTELSOLUTION_URL));
+           // await Navigation.PushAsync(new WebPage(title, INTELSOLUTION_URL));
         }
 
-        async void IntelSoftware(object sender, EventArgs e)
+        void IntelSoftware(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, INTELSOFTWARE_URL));
+            Device.OpenUri(new Uri(INTELSOFTWARE_URL));
+           // await Navigation.PushAsync(new WebPage(title, INTELSOFTWARE_URL));
         }
 
-        async void CustomAlerts(object sender, EventArgs e)
+        void CustomAlerts(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, CUSTOMALERTS_URL));
+            Device.OpenUri(new Uri(CUSTOMALERTS_URL));
+            //await Navigation.PushAsync(new WebPage(title, CUSTOMALERTS_URL));
         }
 
-        async void BreakingNews(object sender, EventArgs e)
+        void BreakingNews(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, BREAKING_NEWS_URL));
+            Device.OpenUri(new Uri(BREAKING_NEWS_URL));
+           // await Navigation.PushAsync(new WebPage(title, BREAKING_NEWS_URL));
         }
-        async void MarketTracks(object sender, EventArgs e)
+        void MarketTracks(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, MARKET_TRACKS_URL));
-        }
-
-        async void LitSearches(object sender, EventArgs e)
-        {
-            var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, LIT_SEARCHES_URL));
+            Device.OpenUri(new Uri(MARKET_TRACKS_URL));
+            //await Navigation.PushAsync(new WebPage(title, MARKET_TRACKS_URL));
         }
 
-        async void MobileApps(object sender, EventArgs e)
+        void LitSearches(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            await Navigation.PushAsync(new WebPage(title, CUSTOM_MOBILE_URL));
+            Device.OpenUri(new Uri(LIT_SEARCHES_URL));
+            //await Navigation.PushAsync(new WebPage(title, LIT_SEARCHES_URL));
+        }
+
+        void MobileApps(object sender, EventArgs e)
+        {
+            var title = GetTitle(sender);
+            Device.OpenUri(new Uri(CUSTOM_MOBILE_URL));
+            //await Navigation.PushAsync(new WebPage(title, CUSTOM_MOBILE_URL));
         }
         private string GetTitle(object sender)
         {
