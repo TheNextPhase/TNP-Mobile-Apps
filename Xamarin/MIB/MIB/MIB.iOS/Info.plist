@@ -21,11 +21,11 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>10.3</string>
+	<string>8.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>MIB</string>
+	<string>Medintellibase.com</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.MIB</string>
+	<string>com.thenextphase.mib</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleIconFiles</key>
@@ -50,5 +50,20 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>MIB</string>
+	<key>UIMainStoryboardFile</key>
+	<string>LaunchScreen</string>
+	<key>XSLaunchImageAssets</key>
+	<string>Resources/Assets.xcassets/LaunchImages.launchimage</string>
+	<key>XSAppIconAssets</key>
+	<string>Resources/Assets.xcassets/AppIcons.appiconset</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Fonts/Skia_Regular.ttf</string>
+		<string>Fonts/Roboto_Black.ttf</string>
+		<string>Fonts/Roboto_Light.ttf</string>
+		<string>Fonts/Roboto_Medium.ttf</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
 </dict>
 </plist>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MIB_MarketTracks"
+             x:Class="MIB_MarketTracks.MainPage"
+             Title="MedIntelliBase® MarketTracks™"
+             NavigationPage.HasNavigationBar="True"
+             Style="{StaticResource contentPage}"
+             NavigationPage.HasBackButton="False">
+    <!-- Adds padding on top for iOS device-->
+    <ContentPage.Padding >
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0" />
+            <On Platform="Android, WinPhone, Windows" Value="20" />
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="" Icon="icon.png" Text="" Priority="0"/>
+    </ContentPage.ToolbarItems>
+    <ScrollView >
+        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="10">
+            <!--<Image Source="bgimage.png" Aspect="AspectFill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>-->
+            <Button x:Name="MarketTracks" Text="MIB MarketTracks" Image="tracks.jpg" Clicked="MarketTracks_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="ClinicalTracks" Text="Search ClinicalTracks™ Trials" Image="tracks.jpg" Clicked="ClinicalTracks_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="TechTracks" Text="Search TechTracks™" Image="tracks.jpg" Clicked="TechTracks_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="PIDir" Text="PI Directory" Image="tracks.jpg" Clicked="PI_Directory_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="PIStudyDir" Text="PI Study Sites Directory" Image="tracks.jpg" Clicked="PI_Study_Dir_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="PDDir" Text="Product/Tech Directory" Image="tracks.jpg" Clicked="ProductDir_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="CSDir" Text="Company/Sponsors Directory" Image="tracks.jpg" Clicked="CompanySponsorDir_Clicked" Style="{StaticResource button}"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
+

@@ -1,3 +1,7 @@
+MIB.Droid.CustomButton, MIB.Android;md51b767afb916f7bed6675c9ce4aebc824.CustomButton
+MIB.Droid.CustomButton, MIB.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51b767afb916f7bed6675c9ce4aebc824.CustomButton
+MIB.Droid.CustomButton;md51b767afb916f7bed6675c9ce4aebc824.CustomButton
+mib.droid.CustomButton;md51b767afb916f7bed6675c9ce4aebc824.CustomButton
 MIB.Droid.MainActivity, MIB.Android;md51b767afb916f7bed6675c9ce4aebc824.MainActivity
 MIB.Droid.MainActivity, MIB.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51b767afb916f7bed6675c9ce4aebc824.MainActivity
 MIB.Droid.MainActivity;md51b767afb916f7bed6675c9ce4aebc824.MainActivity

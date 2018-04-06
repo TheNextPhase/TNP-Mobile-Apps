@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MIB_Alerts"
+             x:Class="MIB_Alerts.MainPage"
+             Title="MedIntelliBase® Alerts Intelligence"
+             NavigationPage.HasNavigationBar="True"
+             Style="{StaticResource contentPage}"
+             NavigationPage.HasBackButton="False">
+    <!-- Adds padding on top for iOS device-->
+    <ContentPage.Padding >
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0" />
+            <On Platform="Android, WinPhone, Windows" Value="20" />
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="" Icon="icon.png" Text="" Priority="0"/>
+    </ContentPage.ToolbarItems>
+    <ScrollView >
+        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="10">
+            <Button x:Name="CurrentAlert" Text="Current Alert" Image="newglass.png" Clicked="CurrentAlerts_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="UnreadAlert" Text="Unread Alerts" Image="newglassdot.png" Clicked="UnreadAlerts_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="BreakingNews" Text="BreakingNews™" Image="RSSGuy.jpg" Clicked="BreakingNews_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="SearchAbstract" Text="Search Abstracts" Image="newglass.png" Clicked="SearchAbstract_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="SearchArticles" Text="Search Articles" Image="newglass.png" Clicked="SearchArticles_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="SearchAlerts" Text="Search Alerts" Image="newglass.png" Clicked="SearchAlerts_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="Documents" Text="Documents" Image="newglass.png" Clicked="Documents_Clicked" Style="{StaticResource button}"/>
+            <Button x:Name="ShopMIBReports" Text="Shop MIB Alerts™ Reports" Image="newglass.png" Clicked="ShopMIBReports_Clicked" Style="{StaticResource button}"/>
+            <Image Source="footer.png" Aspect="AspectFill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
+

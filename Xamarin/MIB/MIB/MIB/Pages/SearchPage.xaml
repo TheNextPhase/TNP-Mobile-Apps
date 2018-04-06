@@ -8,7 +8,7 @@
     <!-- Adds padding on top for iOS device-->
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness">
-            <On Platform="iOS" Value="0, 20, 0, 0" />
+            <On Platform="iOS" Value="20, 20, 20, 15" />
             <On Platform="Android, WinPhone, Windows" Value="20" />
         </OnPlatform>
     </ContentPage.Padding>
@@ -16,12 +16,12 @@
         <ToolbarItem Name="Home" Icon="search.png" Text="Search" Priority="0"/>
     </ContentPage.ToolbarItems>
     <ScrollView >
-        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="10">
-            <Button Text="MIB Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution" Style="{StaticResource button}"/>
-            <Button Text="MIB Custom Alerts" Image="newglass.png" Clicked="CustomAlerts" Style="{StaticResource button}"/>
-            <Button Text="MIB Custom BreakingNews™" Image="RSSGuy.png" Clicked="BreakingNews" Style="{StaticResource button}"/>
-            <Button Text="MIB Custom MarketTracks™" Image="tracks.jpg"  Clicked="MarketTracks" Style="{StaticResource button}"/>
-            <Button Text="MIB Custom LitSearches" Image="litsearch.jpg" Clicked="LitSearches" Style="{StaticResource button}"/>
+        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="20">
+            <Button Text="Custom Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution" Style="{StaticResource button}"/>
+            <Button Text="MIB Alerts™" Image="newglass.png" Clicked="CustomAlerts" Style="{StaticResource button}"/>
+            <Button Text="MIB BreakingNews™" Image="RSSGuy.jpg" Clicked="BreakingNews" Style="{StaticResource button}"/>
+            <Button Text="MIB MarketTracks™" Image="tracks.jpg"  Clicked="MarketTracks" Style="{StaticResource button}"/>
+            <Button Text="MIB LitSearches™" Image="litsearch.jpg" Clicked="LitSearches" Style="{StaticResource button}"/>
             <Button Text="MIB Alerts™ Mobile Apps" Image="mobile.png" Clicked="MobileApps" Style="{StaticResource button}"/>
             <Button Text="MIB Alerts™ DIY Software" Image="black_dev.png" Clicked="IntelSoftware" Style="{StaticResource button}"/>
         </StackLayout>

@@ -30,8 +30,8 @@ C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB.Android\obj\Debug\androi
 C:\Users\Intern\Documents\workspace\Xamarin\MIB\MIB\MIB.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\MIB.Android.dll
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\MIB.Android.pdb
-C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\com.companyname.MIB.apk
-C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\com.companyname.MIB-Signed.apk
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\com.thenextphase.mib.apk
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\com.thenextphase.mib-Signed.apk
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\MIB.dll
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\MIB.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\MIB.Android.csprojResolveAssemblyReference.cache
@@ -39,11 +39,13 @@ C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\MIB.Android.csproj.CopyComplete
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\MIB.Android.dll
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\MIB.Android.pdb
-C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\android\bin\com.companyname.MIB.apk
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\android\bin\com.thenextphase.mib.apk
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\font\roboto_black.ttf
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\font\roboto_medium.ttf
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\font\skia_regular.ttf
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\layout\tabbar.xml
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\layout\toolbar.xml
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\values\styles.xml
-C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\icon.jpg
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\newglass.png
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\search.png
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\service.png
@@ -56,9 +58,11 @@ C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\rssguy.jpg
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\litsearch.jpg
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\bgimage.9.png
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\black_head.png
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\footer.png
+C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\icon.jpg
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\R.cs.flag
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\uploadflags.txt
-C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\black_head.png
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\Mono.Android.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\mscorlib.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\System.Core.pdb
@@ -130,7 +134,6 @@ C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\android\assets\System.Web.Services.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\android\assets\System.Xml.pdb
-C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\res\drawable\footer.png
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\MIB.Android.dll
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\linksrc\MIB.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\linksrc\MIB.Android.dll.mdb

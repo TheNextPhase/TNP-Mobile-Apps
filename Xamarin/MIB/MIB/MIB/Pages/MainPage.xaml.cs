@@ -18,15 +18,13 @@ namespace MIB
         public MainPage()
         {
             InitializeComponent();
-            //NavigationPage.SetTitleIcon(this, "head.jpg");
-           // this.BackgroundImage = "bgimage.png";
         }
 
         void Home_Clicked(object sender, EventArgs e)
         {
             var title = GetTitle(sender);
-            Device.OpenUri(new Uri(HOME_URL));
-            //await Navigation.PushAsync(new WebPage(title, HOME_URL));
+            Device.OnPlatform(iOS: async () => await Navigation.PushAsync(new WebPage(title, HOME_URL)), Android: () => Device.OpenUri(new Uri(HOME_URL)));
+            //;
         }
         void IntelSolution_Clicked (object sender, EventArgs e)
         {
