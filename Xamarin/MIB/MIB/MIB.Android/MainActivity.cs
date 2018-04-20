@@ -15,9 +15,6 @@ namespace MIB.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
-            base.Window.RequestFeature(WindowFeatures.ActionBar);
-            base.SetTheme(Resource.Style.MainTheme);
-
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
     
