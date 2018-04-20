@@ -1,41 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:LLAtx_Lite"
              x:Class="LLAtx_Lite.MainPage"
              Title="MedIntelliBase® Alerts LLA Tx Lite"
-             NavigationPage.HasNavigationBar="True"
-             Style="{StaticResource contentPage}"
              NavigationPage.HasBackButton="False">
-    <!-- Adds padding on top for iOS device-->
-    <ContentPage.Padding >
-        <OnPlatform x:TypeArguments="Thickness">
-            <On Platform="iOS" Value="0, 20, 0, 0" />
-            <On Platform="Android, WinPhone, Windows" Value="20" />
-        </OnPlatform>
-    </ContentPage.Padding>
-    <ContentPage.ToolbarItems>
+
+    <!--<ContentPage.ToolbarItems>
         <ToolbarItem Name="" Icon="icon.png" Text="" Priority="0"/>
-    </ContentPage.ToolbarItems>
-    <ScrollView >
-        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="10">
-            <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="10">
-                <!--<Image Source="bgimage.png" Aspect="AspectFill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>-->
-                <Button x:Name="Alerts" Text="MIB Alerts™ Current Alert" Image="newglass.png" Clicked="Alerts_Clicked" Style="{StaticResource button}"/>
-                <Button x:Name="News" Text="MIB BreakingNews™" Image="RSSGuy.jpg" Clicked="News_Clicked" Style="{StaticResource button}"/>
-                <Button x:Name="MarketTracks" Text="MIB MarketTracks™" Image="tracks.jpg" Clicked="MarketTracks_Clicked" Style="{StaticResource button}"/>
-            </StackLayout>
-            <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="10">
-                <Grid>
-                    <Label Text="Follow Us: " Grid.Row="0" Grid.Column="0"/>
-                    <Label Text="Contatct Us: " Grid.Row="1" Grid.Column="0"/>
-                    <Button Text="Phone: 1-425-869-8724" Grid.Row="1" Grid.Column="1" Style="{StaticResource footerBtn}"/>
-                    <Button Text="Email: MIBInfo@MedIntelliBase.com" Grid.Row="2" Grid.Column="1" Style="{StaticResource footerBtn}"/>
-                    <Button Text="Website: MedIntelliBase.com" Grid.Row="3" Grid.Column="1" Style="{StaticResource footerBtn}"/>
-                </Grid>
+    </ContentPage.ToolbarItems>-->
 
-            </StackLayout>
+    <!--Set the background image of page-->
+    <AbsoluteLayout VerticalOptions="FillAndExpand"
+                    HorizontalOptions="FillAndExpand">
+        <Image AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1" Source="witchdance.png" Aspect="AspectFill"/>
 
-        </StackLayout>
-    </ScrollView>
+        <!--Contents-->
+        <ScrollView AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1">
+            <StackLayout HorizontalOptions="FillAndExpand" Padding="20,0,20,20"  Orientation="Vertical">
+                <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Spacing="20,0,20,30">
+                    <!--<Image Source="bgimage.png" Aspect="AspectFill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>-->
+                    <Button x:Name="Alerts" Text="MIB Alerts™ Current Alert" Image="newglass.png" Clicked="Alerts_Clicked" Style="{StaticResource button}"/>
+                    <Button x:Name="News" Text="MIB BreakingNews™" Image="RSSGuy.jpg" Clicked="News_Clicked" Style="{StaticResource button}"/>
+                    <Button x:Name="MarketTracks" Text="MIB MarketTracks™" Image="tracks.jpg" Clicked="MarketTracks_Clicked" Style="{StaticResource button}"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand"  Orientation="Vertical" Spacing="20,0,20,30">
+                    <Grid>
+
+                        <Label Text="Follow Us: " Grid.Row="0" Grid.Column="0" />
+                        <Label Text="Contatct Us: " Grid.Row="1" Grid.Column="0"/>
+                        <Button Text="Phone: 1-425-869-8724" Grid.Row="1" Grid.Column="1"/>
+                        <Button Text="Email: MIBInfo@MedIntelliBase.com" Grid.Row="2" Grid.Column="1" />
+                        <Button Text="Website: MedIntelliBase.com" Grid.Row="3" Grid.Column="1" />
+                    </Grid>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </AbsoluteLayout>
 </ContentPage>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LLAtx_Lite.RegisterPage"
+             NavigationPage.HasBackButton="False">
+
+    <!-- Adds padding on top for iOS device-->
+    <ContentPage.Padding >
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 0, 0, 0" />
+            <On Platform="Android, WinPhone, Windows" Value="0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Padding="0,0,0,20">
+        <Image Source="logo.png" Aspect="AspectFill"/>
+    </StackLayout>
+    <!--Set the background image of page-->
+    <AbsoluteLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+        <Image AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+            Source="strategybg.png" Aspect="AspectFill"/>
+
+        <!--Contents-->
+        <StackLayout AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1" Orientation="Vertical" Padding="20,20,20,0">
+            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Padding="20,20,20,0">
+                <Entry Placeholder="Username" Style="{StaticResource entryText}"/>
+                <Entry Placeholder="Password" IsPassword="true" Style="{StaticResource entryText}"/>
+                <Button Text="Register" Clicked="Register_Clicked" Style="{StaticResource button}"/>
+            </StackLayout>
+        </StackLayout>
+    </AbsoluteLayout>
+</ContentPage>

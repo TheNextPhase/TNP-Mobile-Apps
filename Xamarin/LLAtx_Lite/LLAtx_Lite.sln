@@ -11,7 +11,6 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "LLAtx_Lite", "LLAtx_Lite\LL
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		LLAtx_Lite\LLAtx_Lite\LLAtx_Lite.projitems*{4782ad4a-d5e7-41f6-ab4f-9b2c640f153d}*SharedItemsImports = 13
 		LLAtx_Lite\LLAtx_Lite\LLAtx_Lite.projitems*{72c1dddb-6beb-4ca1-b1fd-5e8e580823ee}*SharedItemsImports = 4
 		LLAtx_Lite\LLAtx_Lite\LLAtx_Lite.projitems*{a4afc04b-8d45-4031-a6c8-3dbedb26eef8}*SharedItemsImports = 4
 	EndGlobalSection

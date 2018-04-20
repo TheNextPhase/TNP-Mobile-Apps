@@ -2,8 +2,7 @@
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LLAtx_Lite.App">
-	<Application.Resources>
-
+    <Application.Resources>
         <ResourceDictionary>
             <OnPlatform x:TypeArguments="x:String" x:Key="buttonFont">
                 <On Platform="Android" Value="fonts/Skia_Regular.ttf" />
@@ -12,8 +11,18 @@
             </OnPlatform>
             <Style x:Key="contentPage" TargetType="ContentPage">
                 <Setter Property="BackgroundColor" Value="#223c89"/>
-
             </Style>
+
+            <Style x:Key="footerBtn" TargetType="Button">
+                <Setter Property="TextColor" Value="#EEEEEE"/>
+                <Setter Property="BorderRadius" Value="5"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="FontSize" Value="Medium"/>
+                <Setter Property="BackgroundColor" Value="Transparent"/>
+                <Setter Property="BorderColor" Value="Transparent"/>
+                <Setter Property="HeightRequest" Value="55"/>
+            </Style>
+            
             <Style x:Key="button" TargetType="Button">
                 <Setter Property="TextColor" Value="#EEEEEE"/>
                 <Setter Property="BorderRadius" Value="5"/>

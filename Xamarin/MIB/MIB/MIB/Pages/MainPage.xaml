@@ -14,18 +14,29 @@
             <On Platform="Android, WinPhone, Windows" Value="20" />
         </OnPlatform>
     </ContentPage.Padding>
+
+    <!-- icon -->
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="" Icon="black_head.png" Text="" Priority="0"/>
     </ContentPage.ToolbarItems>
-    <ScrollView >
-        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="20">
+
+    <!--Set the background image of page-->
+    <AbsoluteLayout VerticalOptions="FillAndExpand"
+                    HorizontalOptions="FillAndExpand">
+        <Image AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+            Source="nightfade.png" Aspect="AspectFill"/>
+
+        <!--Contents-->
+        <ScrollView AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1">
             <Image Source="bgimage.png" Aspect="AspectFill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
-            <Button Text="Benefits To You" Image="head.jpg" Clicked="Home_Clicked" Style="{StaticResource button}"/>
-            <Button Text="Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution_Clicked" Style="{StaticResource button}"/>
-            <Button Text="Intelligence Software" Image="black_dev.png" Clicked="IntelSoftware_Clicked" Style="{StaticResource button}"/>
-            <Button Text="Contact Us" Image="service.png" Clicked="Contact_Clicked" Style="{StaticResource button}"/>
-            <Button Text="Search" Image="search.png" Clicked="Search_Clicked" Style="{StaticResource button}"/>
-            <Label Text=""></Label>
-        </StackLayout>
-    </ScrollView>
+            <StackLayout HorizontalOptions="FillAndExpand" Orientation="Vertical" Spacing="20">
+                <Button Text="Benefits To You" Image="head.jpg" Clicked="Home_Clicked" Style="{StaticResource button}"/>
+                <Button Text="Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution_Clicked" Style="{StaticResource button}"/>
+                <Button Text="Intelligence Software" Image="black_dev.png" Clicked="IntelSoftware_Clicked" Style="{StaticResource button}"/>
+                <Button Text="Contact Us" Image="service.png" Clicked="Contact_Clicked" Style="{StaticResource button}"/>
+                <Button Text="Search" Image="search.png" Clicked="Search_Clicked" Style="{StaticResource button}"/>
+                <Label Text=""></Label>
+            </StackLayout>
+        </ScrollView>
+    </AbsoluteLayout>
 </ContentPage>
