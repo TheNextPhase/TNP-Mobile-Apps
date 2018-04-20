@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MedCom.MainPage"
+             NavigationPage.HasBackButton="False">
+    
+    <!-- Adds padding on top for iOS device-->
+    <ContentPage.Padding >
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 0, 0, 0" />
+            <On Platform="Android, WinPhone, Windows" Value="0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <!--Set the background image of page-->
+    <AbsoluteLayout VerticalOptions="FillAndExpand"
+                    HorizontalOptions="FillAndExpand">
+        <Image AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+            Source="purplebg.png" Aspect="AspectFill"/>
+
+        <!--Contents-->
+        <ScrollView AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1">
+            <StackLayout HorizontalOptions="FillAndExpand" Padding="20,0,20,20"  Orientation="Vertical">
+                <!--Button Controls-->
+                <!--<Image Source="logo.png" Aspect="AspectFit"/>-->
+                <!--Button Controls-->
+                <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" Padding="0,20,0,20">
+                    <Button Image="newsboy.png" Text="Current Lit Alert" Clicked="Current_Alerts_Clicked" Style="{StaticResource button}"/>
+                    <Button Image="newsboybadge.png" Text="Unread Lit Alerts" Clicked="Unread_Alerts_Clicked" Style="{StaticResource button}"/>
+                    <Button Image="newsboygreen.png" Text="User Lit Alerts" Clicked="User_Alerts_Clicked" Style="{StaticResource button}"/>
+                    <Button Image="search.png" Text="Quick Search" Clicked="Quick_Search_Clicked" Style="{StaticResource button}"/>
+                    <Button Image="search.png" Text="Investigator Directory - PAH" Clicked="ID_PAH_Clicked" Style="{StaticResource button}"/>
+                    <Button Image="search.png" Text="Investigator Directory - ASPIRE" Clicked="ID_ASPIRE_Clicked" Style="{StaticResource button}"/>
+                    <Button Image="RSSGuy.jpg" Text="Web Request Form - MSL Only" Clicked="Web_Request_Clicked" Style="{StaticResource button}"/>
+                    <!--<Button Image="RSSGuy.jpg" Text="Register" Clicked="Register_Clicked"/>-->
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </AbsoluteLayout>
+</ContentPage>
