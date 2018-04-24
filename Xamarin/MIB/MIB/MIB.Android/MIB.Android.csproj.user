@@ -4,5 +4,6 @@
     <SelectedDevice>5.7" Marshmallow %286.0.0%29 XHDPI Phone</SelectedDevice>
     <DefaultDevice>5.7" Marshmallow %286.0.0%29 XHDPI Phone</DefaultDevice>
     <AndroidDesignerPreferredTheme>Theme.DeviceDefault.Light.NoActionBar.Fullscreen</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
