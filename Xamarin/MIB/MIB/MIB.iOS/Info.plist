@@ -21,7 +21,7 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>8.0</string>
+	<string>10.0</string>
 	<key>CFBundleDisplayName</key>
 	<string>Medintellibase.com</string>
 	<key>CFBundleIdentifier</key>
@@ -52,10 +52,6 @@
 	<string>MIB</string>
 	<key>UIMainStoryboardFile</key>
 	<string>LaunchScreen</string>
-	<key>XSLaunchImageAssets</key>
-	<string>Resources/Assets.xcassets/LaunchImages.launchimage</string>
-	<key>XSAppIconAssets</key>
-	<string>Resources/Assets.xcassets/AppIcons.appiconset</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Fonts/Skia_Regular.ttf</string>
@@ -65,5 +61,7 @@
 	</array>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleLightContent</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
 </dict>
 </plist>

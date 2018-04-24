@@ -32,7 +32,6 @@
                     <Button Image="search.png" Text="Investigator Directory - PAH" Clicked="ID_PAH_Clicked" Style="{StaticResource button}"/>
                     <Button Image="search.png" Text="Investigator Directory - ASPIRE" Clicked="ID_ASPIRE_Clicked" Style="{StaticResource button}"/>
                     <Button Image="RSSGuy.jpg" Text="Web Request Form - MSL Only" Clicked="Web_Request_Clicked" Style="{StaticResource button}"/>
-                    <!--<Button Image="RSSGuy.jpg" Text="Register" Clicked="Register_Clicked"/>-->
                 </StackLayout>
 
             </StackLayout>

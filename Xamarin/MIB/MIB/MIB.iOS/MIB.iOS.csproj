@@ -172,21 +172,9 @@
     <BundleResource Include="Resources\service.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\splashscreen.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\tracks.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\AppIcons.appiconset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\Images.imageset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\LaunchImages.launchimage\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
     <ImageAsset Include="Media.xcassets\AppIcons1.appiconset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
@@ -252,9 +240,18 @@
     <ITunesArtwork Include="Resources\iTunesArtwork%402x.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\splash.png" />
+    <BundleResource Include="Resources\bgimage.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\bgimage.png" />
+    <BundleResource Include="Resources\den.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\DeepBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\splash.9.png" />
   </ItemGroup>
 </Project>

@@ -135,7 +135,6 @@ C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\android\assets\System.Xml.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\bin\Debug\MIB.Android.dll
-C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\linksrc\MIB.pdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\linksrc\MIB.Android.dll.mdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\Users\Intern\Documents\workspace\TNP-Mobile-Apps\Xamarin\MIB\MIB\MIB.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
