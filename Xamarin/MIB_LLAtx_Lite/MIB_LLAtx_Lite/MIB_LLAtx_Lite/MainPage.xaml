@@ -2,10 +2,30 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MIB_LLAtx_Lite"
-             x:Class="MIB_LLAtx_Lite.MainPage">
+             x:Class="MIB_LLAtx_Lite.MainPage"
+             Title="MedIntelliBase® Alerts LLA Tx Lite"
+             NavigationPage.HasBackButton="False">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <!--Set the background image of page-->
+    <AbsoluteLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+        <Image AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+            Source="purpledivision.png" Aspect="AspectFill"/>
+
+        <!--Contents-->
+        <ScrollView AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1">
+            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Spacing="10" Margin="20">
+                <Button x:Name="CurrentAlert" Text="MIB Alerts™ Current Alert" Image="newglass.png" Clicked="CurrentAlerts_Clicked" Style="{StaticResource button}"/>
+                <Button x:Name="BreakingNews" Text="MIB BreakingNews™" Image="RSSGuy.jpg" Clicked="BreakingNews_Clicked" Style="{StaticResource button}"/>
+                <Button x:Name="MarketTracks" Text="MIB MarketTracks™" Image="tracks.jpg" Clicked="MarketTracks_Clicked" Style="{StaticResource button}"/>
+            </StackLayout>
+        </ScrollView>
+        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand" Orientation="Vertical" BackgroundColor="#2c2c2c">
+            <Label Text="Follow us:"/>
+            <Label Text="Contact us:"/>
+            <Button Image="icons8-phone-50.png" Clicked="Phone_Clicked"/>
+            <Button Image="icons8-secured-letter-50.png" Clicked="Email_Clicked"/>
+            <Button Image="icons8-website-50.png" Clicked="Website_Clicked"/>
+        </StackLayout>
+    </AbsoluteLayout>
 
 </ContentPage>

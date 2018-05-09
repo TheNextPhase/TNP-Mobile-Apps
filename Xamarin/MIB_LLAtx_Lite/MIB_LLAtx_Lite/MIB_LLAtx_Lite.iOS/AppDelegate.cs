@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Firebase;
 
 namespace MIB_LLAtx_Lite.iOS
 {
@@ -24,7 +25,7 @@ namespace MIB_LLAtx_Lite.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
-
+            FirebaseApp.configure();
             return base.FinishedLaunching(app, options);
         }
     }

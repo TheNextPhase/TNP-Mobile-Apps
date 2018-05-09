@@ -19,7 +19,7 @@
 &lt;/dict&gt;
 &lt;/plist&gt;
 </TargetiOSDevice>
-    <SelectedDevice>iPhone 7 Plus iOS 10.0</SelectedDevice>
+    <SelectedDevice>Simulator</SelectedDevice>
     <DefaultDevice>iPhone 7 Plus iOS 10.0</DefaultDevice>
   </PropertyGroup>
 </Project>

@@ -14,10 +14,6 @@ namespace MIB_MarketTracks.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
-            // Added to enable splash screen
-            base.Window.RequestFeature(WindowFeatures.ActionBar);
-            base.SetTheme(Resource.Style.MainTheme);
-
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "96114812569",
+    "firebase_url": "https://mib-premium.firebaseio.com",
+    "project_id": "mib-premium",
+    "storage_bucket": "mib-premium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96114812569:android:9b71b484d132e5ca",
+        "android_client_info": {
+          "package_name": "com.thenextphase.mib_premium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96114812569-7dg9s4qtpb7mtnog282ppi9ijglsadlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALpUZr4zFVcc0V4VJycCnO-V_fFs3TLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,5 +16,12 @@ namespace MIB_LLAtx_Lite
 		{
 			InitializeComponent ();
 		}
-	}
+
+        async public void Register_Clicked(object sender, EventArgs e)
+        {
+
+            await Navigation.PushAsync(new MainPage());
+        }
+       
+    }
 }

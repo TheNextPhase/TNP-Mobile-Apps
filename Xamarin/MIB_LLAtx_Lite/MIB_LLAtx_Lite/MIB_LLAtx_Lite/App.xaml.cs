@@ -13,10 +13,15 @@ namespace MIB_LLAtx_Lite
 		{
 			InitializeComponent();
 
-			MainPage = new MIB_LLAtx_Lite.MainPage();
-		}
+			MainPage = new NavigationPage(new MIB_LLAtx_Lite.RegisterPage())
+            {
+                BarBackgroundColor = Color.FromHex("#2c2c2c"),
+                BarTextColor = Color.White
+            };
 
-		protected override void OnStart ()
+        }
+
+        protected override void OnStart ()
 		{
 			// Handle when your app starts
 		}

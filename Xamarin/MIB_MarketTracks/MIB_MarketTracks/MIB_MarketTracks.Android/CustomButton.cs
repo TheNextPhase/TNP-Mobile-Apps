@@ -13,9 +13,9 @@ namespace MIB.Droid
         protected override void OnElementChanged(ElementChangedEventArgs<Button> e)
         {
             base.OnElementChanged(e);
-            if (e.NewElement != null && !string.IsNullOrEmpty(e.NewElement.FontFamily))// if (!string.IsNullOrEmpty(e.NewElement?.StyleId))
+            if (e.NewElement != null && !string.IsNullOrEmpty(e.NewElement.FontFamily))
             {
-                var font = Typeface.CreateFromAsset(Forms.Context.ApplicationContext.Assets, e.NewElement.FontFamily);// e.NewElement.StyleId + ".ttf");
+                var font = Typeface.CreateFromAsset(Forms.Context.ApplicationContext.Assets, e.NewElement.FontFamily);
 
                 Control.Typeface = font;
                 Control.SetAllCaps(false);

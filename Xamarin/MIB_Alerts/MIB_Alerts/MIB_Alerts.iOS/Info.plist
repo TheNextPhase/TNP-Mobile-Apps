@@ -25,7 +25,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>MIB Alerts</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.thenextphase.miba</string>
+	<string>com.thenextphase.mib-alerts</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleIconFiles</key>
@@ -50,5 +50,9 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>MIB_Alerts</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.6</string>
+	<key>UIMainStoryboardFile</key>
+	<string>LaunchScreen</string>
 </dict>
 </plist>

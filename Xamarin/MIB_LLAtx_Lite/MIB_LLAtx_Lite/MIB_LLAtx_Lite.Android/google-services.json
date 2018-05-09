@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "159696668469",
+    "firebase_url": "https://mib-llatxlite.firebaseio.com",
+    "project_id": "mib-llatxlite",
+    "storage_bucket": "mib-llatxlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159696668469:android:8794feace33cf8e7",
+        "android_client_info": {
+          "package_name": "com.thenextphase.mib_llatxlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159696668469-2iatefi665v9n2jic4u7nqvavdm3r88b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Io50ZsXL6tMUH_jnXtDiyB-_Tz54yLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

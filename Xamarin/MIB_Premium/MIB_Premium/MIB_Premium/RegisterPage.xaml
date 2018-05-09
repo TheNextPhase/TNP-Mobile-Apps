@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MIB_Premium.RegisterPage"
+             Title="Register for Push Notification"
+             NavigationPage.HasBackButton="False">
+    
+    <ContentPage.Content>
+        <!--Set the background image of page-->
+        <AbsoluteLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            <Image AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+            Source="deb.png" Aspect="AspectFill"/>
+
+            <!--Contents-->
+            <StackLayout AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1" Orientation="Vertical" Padding="20,20,20,0">
+                <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Padding="20,20,20,0">
+                    <Entry Placeholder="Username" Style="{StaticResource entryText}"/>
+                    <Entry Placeholder="Password" IsPassword="true" Style="{StaticResource entryText}"/>
+                    <Button Text="Register" Clicked="Register_Clicked" Style="{StaticResource button}"/>
+                </StackLayout>
+            </StackLayout>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

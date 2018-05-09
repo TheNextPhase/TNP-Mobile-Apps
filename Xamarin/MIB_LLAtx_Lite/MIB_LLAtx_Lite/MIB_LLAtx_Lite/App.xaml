@@ -4,7 +4,31 @@
              x:Class="MIB_LLAtx_Lite.App">
 	<Application.Resources>
 
-		<!-- Application resource dictionary -->
-
-	</Application.Resources>
+        <ResourceDictionary>
+            <OnPlatform x:TypeArguments="x:String" x:Key="buttonFont">
+                <On Platform="Android" Value="font/Skia_Regular.ttf" />
+                <!-- <On Platform="iOS" Value="Roboto_Medium" />-->
+            </OnPlatform>
+            <Style x:Key="contentPage" TargetType="ContentPage">
+                <Setter Property="BackgroundColor" Value="#223c89"/>
+            </Style>
+            <Style x:Key="button" TargetType="Button">
+                <Setter Property="TextColor" Value="#EEEEEE"/>
+                <Setter Property="BorderRadius" Value="5"/>
+                <Setter Property="FontFamily" Value="{DynamicResource buttonFont}"/>
+                <Setter Property="FontSize" Value="Medium"/>
+                <Setter Property="BackgroundColor" Value="#2c2c2c"/>
+                <Setter Property="BorderColor" Value="Transparent"/>
+                <Setter Property="HeightRequest" Value="55"/>
+            </Style>
+            <OnPlatform x:TypeArguments="x:String" x:Key="entryTextColor">
+                <On Platform="Android" Value="White" />
+                <On Platform="iOS" Value="Black" />
+            </OnPlatform>
+            <Style x:Key="entryText" TargetType="Entry">
+                <Setter Property="BackgroundColor" Value="#34495E"/>
+                <Setter Property="TextColor" Value="{DynamicResource entryTextColor}"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
 </Application>

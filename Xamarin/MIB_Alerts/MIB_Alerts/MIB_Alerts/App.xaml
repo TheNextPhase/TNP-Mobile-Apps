@@ -6,11 +6,8 @@
         <ResourceDictionary>
             <OnPlatform x:TypeArguments="x:String" x:Key="buttonFont">
                 <On Platform="Android" Value="fonts/Skia_Regular.ttf" />
-               <!-- <On Platform="iOS" Value="Roboto_Medium" />-->
+                <!-- <On Platform="iOS" Value="Roboto_Medium" />-->
             </OnPlatform>
-            <Style x:Key="contentPage" TargetType="ContentPage">
-                <Setter Property="BackgroundColor" Value="#223c89"/>
-            </Style>
             <Style x:Key="button" TargetType="Button">
                 <Setter Property="TextColor" Value="#EEEEEE"/>
                 <Setter Property="BorderRadius" Value="5"/>

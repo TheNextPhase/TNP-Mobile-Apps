@@ -13,7 +13,7 @@
 
         <!--Contents-->
         <ScrollView AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1">
-            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Spacing="20" Margin="20">
+            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Spacing="10" Margin="20">
                 <Button Text="Custom Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution" Style="{StaticResource button}"/>
                 <Button Text="MIB Alerts™" Image="newglass.png" Clicked="CustomAlerts" Style="{StaticResource button}"/>
                 <Button Text="MIB BreakingNews™" Image="RSSGuy.jpg" Clicked="BreakingNews" Style="{StaticResource button}"/>

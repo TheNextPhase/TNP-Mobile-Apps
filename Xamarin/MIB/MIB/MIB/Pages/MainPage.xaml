@@ -13,7 +13,7 @@
 
         <!--Contents-->
         <ScrollView AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1">
-            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Spacing="20" Margin="20">
+            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Orientation="Vertical" Spacing="10" Margin="20">
                 <Button Text="Benefits To You" Image="head.jpg" Clicked="Home_Clicked" Style="{StaticResource button}"/>
                 <Button Text="Intelligence Solutions" Image="newglass.png" Clicked="IntelSolution_Clicked" Style="{StaticResource button}"/>
                 <Button Text="Intelligence Software" Image="black_dev.png" Clicked="IntelSoftware_Clicked" Style="{StaticResource button}"/>

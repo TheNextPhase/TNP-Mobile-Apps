@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.thenextphase.MIB_Alerts" android:installLocation="auto">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.6" package="com.thenextphase.mib_alerts" android:installLocation="auto">
 	<uses-sdk android:minSdkVersion="15" />
-	<application android:label="MIB Alerts"></application>
+	<application android:label="MIB Alerts" android:icon="@drawable/icon"></application>
 </manifest>
